@@ -4,9 +4,6 @@ function jsonFlickrApi(json){
   restaurantsPhotos = json;
 }
 
-function getRandomPhoto(){
-  alert("CIAO");
-}
 
 function getRandomPhoto(){
   arrayFoto = restaurantsPhotos.photos.photo;
